@@ -1,0 +1,250 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_8BFE50A4_A8EA_8A3A_41C8_8E52AC65894B.source = https://ru.unb.br
+LinkBehaviour_8B389626_A8EE_9606_41D2_A87D2AFD04D3.source = https://ru.unb.br
+LinkBehaviour_B5C0C6F9_A81E_F60A_41E3_0240FE6F8AE2.source = https://ru.unb.br/
+LinkBehaviour_B0A6E851_AC9B_3C36_41CC_CFE02F63143F.source = https://www.facebook.com/ruunb/
+LinkBehaviour_A3689CB9_AC97_D476_41C1_9B5E9E09439F.source = https://www.facebook.com/ruunb/
+WebFrame_B6A41B2E_A82A_9E09_41DC_182A07DEFC4F.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.7522462325096!2d-47.87301062510273!3d-15.764240384871892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3bba485e7e95%3A0xc43e4b8005f84378!2sRestaurante%20Universit%C3%A1rio%20-%20RU!5e0!3m2!1spt-BR!2sbr!4v1707926984234!5m2!1spt-BR!2sbr
+WebFrame_8B2B1C50_A8EA_7A19_41E2_D6A7AF3F9055.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.7522462325096!2d-47.87301062510273!3d-15.764240384871892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3bba485e7e95%3A0xc43e4b8005f84378!2sRestaurante%20Universit%C3%A1rio%20-%20RU!5e0!3m2!1spt-BR!2sbr!4v1707926984234!5m2!1spt-BR!2sbr
+LinkBehaviour_B4908951_A81B_9A1A_41D1_6BD90AEB97F6.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_94DFFBD2_A81E_FE1E_41E2_3597BBB6F5CB.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_A3685CBB_AC97_D46A_41B6_0A7325AFEB7A.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_9796619A_A819_8A0E_41E4_55230C9CB865.source = https://www.instagram.com/ru.unb_oficial/
+LinkBehaviour_94DF8BD2_A81E_FE1E_41C1_22C13C253287.source = https://www.instagram.com/ru.unb_oficial/
+LinkBehaviour_B490B951_A81B_9A1A_41A7_1BDE555DA191.source = https://www.ru.unb.br
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_F96C225E_D1FD_0911_41E8_06AD2F205D5F.text = Acesso \
+1º e  2º \
+Pavimentos
+HotspotPanoramaOverlayTextImage_F0D18EE5_D10B_3907_41D6_C1C51190E64E.text = Acesso \
+1º e 2º \
+Pavimentos
+HotspotPanoramaOverlayTextImage_F37AEE35_D105_1907_41DE_FF0DD467BE5F.text = Acesso \
+Térreo
+HotspotPanoramaOverlayTextImage_893CC4CD_AD89_542E_41D8_A31121154F16.text = Valores  \
+Refeições
+HotspotPanoramaOverlayTextImage_DE2F8493_CDB9_04D7_41E7_C3942CB2BFC3.text = Valores  \
+Refeições
+HotspotPanoramaOverlayTextImage_F7D65A63_D1FB_1930_41CB_32B1E7EA0B8A.text = Valores  \
+Refeições
+HotspotPanoramaOverlayTextImage_FE48CD51_D105_3B68_41C1_AA7E903314EE.text = Valores  \
+Refeições
+
+## Media
+
+### Image
+imlevel_DEFF8630_D1CB_E791_41DC_5C8759BC2F7C.url = media/panorama_8EB0AF9E_8461_BF61_41D6_6B1A6DB2410D_HS_tgxoh6m2_pt.png
+imlevel_DED5057B_D1CB_E597_41E1_19C908CFB1F5.url = media/panorama_91C95913_9AE7_F295_4197_E12730BFD897_HS_131limh1_pt.png
+imlevel_DEFD35C9_D1CB_E4F3_41E8_19668A08B503.url = media/panorama_91C9A427_9AE7_D2BD_41C2_B489E4E9C2D5_HS_nvuwgi0c_pt.png
+imlevel_DF2334ED_D1CB_E4B3_41E1_E60A87DFF066.url = media/panorama_91CAC895_9AE4_339D_41B5_34A3E7FE3A6F_HS_eb221pqe_pt.png
+imlevel_C3769423_D107_0994_41AB_C539D6298EE0.url = media/panorama_91CAC895_9AE4_339D_41B5_34A3E7FE3A6F_HS_lbfjvb2x_pt.png
+imlevel_E5A6BFE6_D10B_1728_41E5_CE8EE965E8B2.url = media/panorama_91CBA720_9AE4_7EB3_41E0_0E7FE7CE000F_HS_5ghibmd1_pt.png
+imlevel_DEFCB5FD_D1CB_E492_41B6_74835AE57951.url = media/panorama_956CDE1F_84A0_A172_41D9_F2BC1D7A0595_HS_v43jtvg1_pt.png
+
+### Title
+video_C057D674_CD8F_0451_41DD_EC32761FBDDF.label = Apresentacao-legenda
+video_DB8E00F7_CDB9_3C5F_41C4_30EED62AC5CA.label = Apresentacao-legenda
+panorama_88E73792_98C6_853F_41D9_F9D3B5465115.label = Cozinha-1-edit
+panorama_97CD8A7E_98C6_8FE7_41AA_44DF058B1BD7.label = Cozinha-10-edit
+panorama_97CDB36D_98C6_9DE4_41AD_16F40EFCFE3E.label = Cozinha-2-edit
+panorama_97CDDE4C_98C6_872B_41E1_E19938BF64EE.label = Cozinha-3-edit
+panorama_97CA5A59_98C6_8F2D_41DA_B41C9AECD8CC.label = Cozinha-4-edit
+panorama_97CDA7CA_98C6_852C_41E2_302037AE26BE.label = Cozinha-7--edit
+panorama_97CD8C00_98C6_8B1C_41C5_CF2DC54E9BA4.label = Cozinha-7.1-edit
+panorama_97CD9EF8_98C6_84EB_41A2_45B74CBC7479.label = Cozinha-9-edit
+video_F0A73C9A_D107_3902_41D0_0AC0DD5F256D.label = EXECUTIVO-LEG
+panorama_88E4C462_8461_61A1_41BE_B56363EB4B6B.label = Foto-1pav-1-edit3
+panorama_8EA9E263_8461_E1A6_41DB_7AE3548D51EE.label = Foto-1pav-10-edit
+panorama_8EA87B29_8461_E7A3_41D5_048BD11C45E8.label = Foto-1pav-11-EDIT
+panorama_8EA8443A_8461_A1A6_41DD_5D421A0B326D.label = Foto-1pav-12-editB
+panorama_8EA863F2_8461_A6A6_41D2_65AEB70582EA.label = Foto-1pav-12.1-edit
+panorama_8EB01C29_8461_A1A2_41C1_91320F6B0E91.label = Foto-1pav-12.2-edit
+panorama_8EB0FD39_8461_A3A3_41D3_54EE24C86572.label = Foto-1pav-13-edit
+panorama_8EA8E699_8461_6163_41C3_89BD40E8ADAE.label = Foto-1pav-14-edit
+panorama_8EA80F62_8461_7FA6_41BC_3EC9FE76FEE5.label = Foto-1pav-15-edit
+panorama_8EA8A796_8461_6F6E_41DF_1C6D05B3C937.label = Foto-1pav-17-edit
+panorama_8EA80FFD_8460_9EA3_41C5_F9DDEA75D7E7.label = Foto-1pav-18-edit
+panorama_8EA8C7FF_8460_AE9E_41CB_83F401E943B3.label = Foto-1pav-19-edit
+panorama_8EB7BE2B_8461_61A6_41BB_723CF0762940.label = Foto-1pav-2-edit
+panorama_8EA8000F_8460_A17F_41AA_1795D07ED1A8.label = Foto-1pav-20-edit
+panorama_8EB018ED_8460_A2A3_41C6_6D89553CD0E8.label = Foto-1pav-21-edit
+panorama_956CDE1F_84A0_A172_41D9_F2BC1D7A0595.label = Foto-1pav-4-edit
+panorama_8EB0AF9E_8461_BF61_41D6_6B1A6DB2410D.label = Foto-1pav-5-edit
+panorama_8EA80869_8461_A1A2_41CC_0471E0A724AA.label = Foto-1pav-6-edit
+panorama_8EA84196_8461_E36E_41C3_6259669ADBB4.label = Foto-1pav-7-edit
+panorama_8EA85A0D_8461_E163_41D8_4FCFC7D14CA8.label = Foto-1pav-9-edit2
+panorama_953556E5_9937_2660_4192_3DB72F4B1F5D.label = Foto-2pav-10-edit
+panorama_9534E15B_9937_5BA0_41CF_A5C36B03157B.label = Foto-2pav-11-edit
+panorama_9534D9C1_9937_6AA0_41DF_05690CDD66BF.label = Foto-2pav-12-edit
+panorama_97F41A43_9933_29A0_41D5_AA4AFB5A6BD9.label = Foto-2pav-1edit
+panorama_9535F6A0_9937_26E0_41BF_22C626A0365A.label = Foto-2pav-2-edit
+panorama_9535616E_9937_3A63_41A8_9F2192DCE637.label = Foto-2pav-3-edit
+panorama_9535BBFA_9937_2E60_41E1_8007252B9EEE.label = Foto-2pav-4-edit
+panorama_953519B6_9937_EAE0_41DB_5F851032F362.label = Foto-2pav-5-edit
+panorama_953573BE_9937_FEE3_41D2_DB1D318C86B8.label = Foto-2pav-6-edit
+panorama_96D4B966_9953_2A63_41D0_6ADF65FB76B2.label = Foto-2pav-7-edit
+panorama_95356127_9937_DBE0_41DD_CF7E8E202BDB.label = Foto-2pav-8-edit
+panorama_95342C28_9937_29EF_41D5_54355AEEF70B.label = Foto-2pav-9-edit
+panorama_938C462B_98C7_876D_41CB_36212AEACD3E.label = Foto-3pav-E1-edit2
+panorama_93D4D40D_98C7_BB24_4161_DD523F676F77.label = Foto-3pav-E2-edit
+panorama_93D74F51_98C7_853D_41DB_726B2FBA7CCF.label = Foto-3pav-E3-edit
+panorama_93D47B4C_98C7_8D24_41D2_5BD308A0D7EC.label = Foto-3pav-E4-edit
+panorama_93D5A734_98C6_8564_41DF_9CDF91AF02FB.label = Foto-3pav-E5-edit
+panorama_93D5C258_98C6_9F2B_41C4_36B248235F00.label = Foto-3pav-E6-edit
+panorama_93D5CD57_98C6_8525_41D4_E8C9ACE720A0.label = Foto-3pav-E7-edit
+panorama_96D4FF48_9AE4_2EF3_41DF_1707AC72AFA5.label = Foto-T0-edit
+panorama_91CAFC71_9AE4_5295_41AF_3FEF8B4DD2FB.label = Foto-T1-edit
+panorama_91C9A427_9AE7_D2BD_41C2_B489E4E9C2D5.label = Foto-T10-edit
+panorama_91C97F98_9AE4_2D94_41DB_7F9D13534C0A.label = Foto-T11-edit
+panorama_91C9FE84_9AE4_6E7C_41D6_E48FD6F61FF4.label = Foto-T12-edit
+panorama_91C9A8BA_9AE4_3397_41E0_6043FE243011.label = Foto-T12.1-edit
+panorama_91C9140B_9AE4_5275_41C9_7269618544E1.label = Foto-T12.2-edit
+panorama_91C9B8CF_9AE4_738D_41D8_FA641F27A683.label = Foto-T13-edit
+panorama_91C99423_9AE4_52B5_41E0_E4780A72577D.label = Foto-T14-edit
+panorama_91C9EEE4_9AE4_2FB3_41C0_8AD542C41BD4.label = Foto-T15-edit
+panorama_91D6799F_9AE4_358D_41BD_DC75B85CC05A.label = Foto-T16-edit
+panorama_91C9643E_9AE4_D28F_41E2_A29975A5676E.label = Foto-T17-edit
+panorama_91D6BE86_9AE4_EE7F_41A4_7239C0870B21.label = Foto-T18-edit
+panorama_91C97977_9AE4_F29D_41E1_7DF290FE1E2A.label = Foto-T19-edit
+panorama_91CBA720_9AE4_7EB3_41E0_0E7FE7CE000F.label = Foto-T2-edit
+panorama_91D6D446_9AE4_D2FC_41D3_023E8AC4D19F.label = Foto-T20-edit
+panorama_91CAC895_9AE4_339D_41B5_34A3E7FE3A6F.label = Foto-T5-edit
+panorama_91C93364_9AE7_D6B3_41E1_C3C9691113B5.label = Foto-T6-edit
+panorama_91C92E33_9AE7_EE95_41B0_363877CD7BDC.label = Foto-T7-edit
+panorama_91C95913_9AE7_F295_4197_E12730BFD897.label = Foto-T9-edit
+video_E1C18532_A82B_8A19_41DB_2889F57615C0.label = Ru-video-final
+video_CD4EA718_C1F3_4EC6_41E4_0304846A0211.label = apresentacao-final2
+video_F13C1863_D10D_190F_41E1_4C28FF552308.label = caixa-leg-FINAL
+panorama_97CDA134_98C6_FD64_41E2_64047F270099.label = cozinha-6-edit
+panorama_97CA4449_98C6_BB2C_41C2_3535AD355476.label = cozinha-8-edit
+video_D1426B9A_C211_45FA_41E2_13C9390453F6.label = cozinha-industrial
+video_E3DD8160_D10B_0B2B_41DD_5631A6D4190D.label = cozinha-leg
+panorama_91CB31BF_9AE4_558D_41D6_7B95CFDAC2B2.label = foto-T3-edit
+video_DB2FA352_C231_C54B_41DD_D1800891E89B.label = guarda-volumes
+video_D88D1FF2_CD89_0451_41E6_E93A6C429D8F.label = guarda-volumes-legenda
+video_F57AB0CC_D105_090C_41E1_7BFE15D78976.label = restaurantes-leg
+
+### Video
+videolevel_C6E0C51C_D1F6_6592_41E5_66C16534AFAE.posterURL = media/video_C057D674_CD8F_0451_41DD_EC32761FBDDF_poster_pt.jpg
+videolevel_C6E0C51C_D1F6_6592_41E5_66C16534AFAE.url = media/video_C057D674_CD8F_0451_41DD_EC32761FBDDF_pt.mp4
+videolevel_C6E3B486_D1F6_7B7E_41DD_1F08F87009F6.posterURL = media/video_CD4EA718_C1F3_4EC6_41E4_0304846A0211_poster_pt.jpg
+videolevel_C6E3B486_D1F6_7B7E_41DD_1F08F87009F6.url = media/video_CD4EA718_C1F3_4EC6_41E4_0304846A0211_pt.mp4
+videolevel_C6E195B2_D1F6_6496_41E7_79F4FF6BFCD4.posterURL = media/video_D1426B9A_C211_45FA_41E2_13C9390453F6_poster_pt.jpg
+videolevel_C6E195B2_D1F6_6496_41E7_79F4FF6BFCD4.url = media/video_D1426B9A_C211_45FA_41E2_13C9390453F6_pt.mp4
+videolevel_C6EE35F6_D1F6_6491_41B7_0E9D5BD74C61.posterURL = media/video_D88D1FF2_CD89_0451_41E6_E93A6C429D8F_poster_pt.jpg
+videolevel_C6EE35F6_D1F6_6491_41B7_0E9D5BD74C61.url = media/video_D88D1FF2_CD89_0451_41E6_E93A6C429D8F_pt.mp4
+videolevel_C6E054CA_D1F6_64F6_41D7_A427CFA65A79.posterURL = media/video_DB2FA352_C231_C54B_41DD_D1800891E89B_poster_pt.jpg
+videolevel_C6E054CA_D1F6_64F6_41D7_A427CFA65A79.url = media/video_DB2FA352_C231_C54B_41DD_D1800891E89B_pt.mp4
+videolevel_C6EF764A_D1F6_67F6_41E6_ED40E9B28DBA.posterURL = media/video_DB8E00F7_CDB9_3C5F_41C4_30EED62AC5CA_poster_pt.jpg
+videolevel_C6EF764A_D1F6_67F6_41E6_ED40E9B28DBA.url = media/video_DB8E00F7_CDB9_3C5F_41C4_30EED62AC5CA_pt.mp4
+videolevel_C6E33435_D1F6_7B92_41E3_43C49DE6E1C5.posterURL = media/video_E1C18532_A82B_8A19_41DB_2889F57615C0_poster_pt.jpg
+videolevel_C6E33435_D1F6_7B92_41E3_43C49DE6E1C5.url = media/video_E1C18532_A82B_8A19_41DB_2889F57615C0_pt.mp4
+videolevel_C6EB474F_D1F6_658E_41D9_A1CBE0141F5E.posterURL = media/video_E3DD8160_D10B_0B2B_41DD_5631A6D4190D_poster_pt.jpg
+videolevel_C6EB474F_D1F6_658E_41D9_A1CBE0141F5E.url = media/video_E3DD8160_D10B_0B2B_41DD_5631A6D4190D_pt.mp4
+videolevel_C6ED76EC_D1F6_64B1_41DA_AD4D4E1A4FD4.posterURL = media/video_F0A73C9A_D107_3902_41D0_0AC0DD5F256D_poster_pt.jpg
+videolevel_C6ED76EC_D1F6_64B1_41DA_AD4D4E1A4FD4.url = media/video_F0A73C9A_D107_3902_41D0_0AC0DD5F256D_pt.mp4
+videolevel_C6EFC69E_D1F6_648E_41D9_72C997D8D6F7.posterURL = media/video_F13C1863_D10D_190F_41E1_4C28FF552308_poster_pt.jpg
+videolevel_C6EFC69E_D1F6_648E_41D9_72C997D8D6F7.url = media/video_F13C1863_D10D_190F_41E1_4C28FF552308_pt.mp4
+videolevel_C6E16560_D1F6_65B2_416E_E58142725AE0.posterURL = media/video_F57AB0CC_D105_090C_41E1_7BFE15D78976_poster_pt.jpg
+videolevel_C6E16560_D1F6_65B2_416E_E58142725AE0.url = media/video_F57AB0CC_D105_090C_41E1_7BFE15D78976_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_B046AEC0_A507_4DA0_41B3_E843FA08CE1C_mobile.label = 1º PAVIMENTO >
+Button_B046AEC0_A507_4DA0_41B3_E843FA08CE1C.label = 1º PAVIMENTO >
+Button_B047BEC1_A507_4DA0_41D2_E503288AACBD_mobile.label = 2º PAVIMENTO >
+Button_B047BEC1_A507_4DA0_41D2_E503288AACBD.label = 2º PAVIMENTO >
+Button_B046DEC1_A507_4DA0_4173_3315615E2DB8_mobile.label = Cozinha Industrial
+Button_B046DEC1_A507_4DA0_4173_3315615E2DB8.label = Cozinha Industrial
+Button_B046BEC1_A507_4DA0_41A5_36F9D1A01B16.label = Lorem Ipsum
+Button_DCF1B7E1_C272_CD46_41E2_4BC8DF49DA44.label = MENU
+Button_8B38E625_A8EE_963A_41DD_B9DD239BF381.label = Mais Informações (SITE)
+Button_B5C0D6F9_A81E_F60A_41DB_0BD9A82C4F1B.label = Mais Informações (site)
+Button_B046FEC1_A507_4DA0_41E4_118E2BE9A053_mobile.label = Rest Executivo
+Button_B046FEBF_A507_4DE0_41C3_9732B39172E7.label = Restaurante 1
+Button_B046FEBF_A507_4DE0_41C3_9732B39172E7_mobile.label = Restaurante 1
+Button_B046DEBF_A507_4DE0_41DA_AD33CE6AD2DF.label = Restaurante 2
+Button_B046DEBF_A507_4DE0_41DA_AD33CE6AD2DF_mobile.label = Restaurante 2
+Button_B047CEC0_A507_4DA0_41DB_54E67ABF34DD_mobile.label = Restaurante 3
+Button_B047CEC0_A507_4DA0_41DB_54E67ABF34DD.label = Restaurante 3
+Button_B047DEC0_A507_4DA0_41D5_4C9D45BF2A4F_mobile.label = Restaurante 4
+Button_B047DEC0_A507_4DA0_41D5_4C9D45BF2A4F.label = Restaurante 4
+Button_B0464EC0_A507_4DA0_41D0_6DBF399C5758.label = Restaurante 5
+Button_B0464EC0_A507_4DA0_41D0_6DBF399C5758_mobile.label = Restaurante 5
+Button_B0465EC0_A507_4DA0_41E2_72C16C545733.label = Restaurante 6
+Button_B0465EC0_A507_4DA0_41E2_72C16C545733_mobile.label = Restaurante 6
+Button_B046FEC1_A507_4DA0_41E4_118E2BE9A053.label = Restaurante Executivo
+Button_B0452EBF_A507_4DE0_41C2_9A41557D3FB2.label = SUBSOLO >
+Button_B0452EBF_A507_4DE0_41C2_9A41557D3FB2_mobile.label = SUBSOLO >
+Button_B0463EC0_A507_4DA0_41E3_EC14BB718304.label = TÉRREO >
+Button_B0463EC0_A507_4DA0_41E3_EC14BB718304_mobile.label = TÉRREO >
+
+### Image
+Image_8B3B5625_A8EE_963A_41BD_62B4E3681030.url = skin/Image_8B3B5625_A8EE_963A_41BD_62B4E3681030_pt.jpg
+Image_8BFEA0A4_A8EA_8A3A_41E5_08E59D5AF8A6.url = skin/Image_8BFEA0A4_A8EA_8A3A_41E5_08E59D5AF8A6_pt.png
+Image_8E6A2B7F_A509_CB60_41C5_4F60D2CDF80F.url = skin/Image_8E6A2B7F_A509_CB60_41C5_4F60D2CDF80F_pt.png
+Image_93D74354_A81A_8E1A_41D9_2F087B23B08C.url = skin/Image_93D74354_A81A_8E1A_41D9_2F087B23B08C_pt.png
+Image_94D83BD2_A81E_FE1E_41BF_93D3DA5BA278.url = skin/Image_94D83BD2_A81E_FE1E_41BF_93D3DA5BA278_pt.png
+Image_9799B199_A819_8A0A_41DC_77AD76864317.url = skin/Image_9799B199_A819_8A0A_41DC_77AD76864317_pt.png
+Image_9E847A57_A82A_7E06_41DF_9BD66D2C5397.url = skin/Image_9E847A57_A82A_7E06_41DF_9BD66D2C5397_pt.png
+Image_A3743CB6_AC97_D47A_41DC_5A8F7F25EF0A.url = skin/Image_A3743CB6_AC97_D47A_41DC_5A8F7F25EF0A_pt.png
+Image_B0457EBF_A507_4DE0_41E0_DC002D7D49EC_mobile.url = skin/Image_B0457EBF_A507_4DE0_41E0_DC002D7D49EC_mobile_pt.jpg
+Image_B0457EBF_A507_4DE0_41E0_DC002D7D49EC.url = skin/Image_B0457EBF_A507_4DE0_41E0_DC002D7D49EC_pt.jpg
+Image_B0A3484F_AC9B_3C2A_41D5_71E5CB8EDA0C.url = skin/Image_B0A3484F_AC9B_3C2A_41D5_71E5CB8EDA0C_pt.png
+Image_B491C950_A81B_9A1A_41AA_13F4FA4E7285.url = skin/Image_B491C950_A81B_9A1A_41AA_13F4FA4E7285_pt.png
+Image_B5C086F9_A81E_F60A_41D2_F0FAAB2D2AFA.url = skin/Image_B5C086F9_A81E_F60A_41D2_F0FAAB2D2AFA_pt.png
+
+### Label
+Label_9796019A_A819_8A0E_41D3_89766456DE9B.text = @ru.unb_oficial
+Label_94D86BD2_A81E_FE1E_41CA_92C2691735F0.text = @ru.unb_oficial
+Label_8BFED0A4_A8EA_8A3A_419F_DF43A4F8E24C.text = Abrir SITE principal  ?
+Label_A3750CB6_AC97_D47A_41DE_ABC8261EBCE4.text = Deseja acessar o Facebook ?
+Label_B0A0E850_AC9B_3C36_41DE_700519E025B3.text = Deseja acessar o Facebook ?
+Label_9799C199_A819_8A0A_41D8_2964B280E79C.text = Deseja acessar o Instagram ?
+Label_B491D950_A81B_9A1A_41D8_2CE40973F99D.text = Deseja acessar o Site do RU?
+Label_94D82BD2_A81E_FE1E_41D1_5795FA562AA1.text = Deseja ir ao instagram ?
+Label_9799F19A_A819_8A0E_41AB_7C6856AA1511.text = NÃO
+Label_8BFEE0A4_A8EA_8A3A_41DE_BC4F07BD0776.text = NÃO
+Label_B0A62851_AC9B_3C36_41DC_DDA93546CA9F.text = NÃO
+Label_94D87BD2_A81E_FE1E_41DB_293DDEE74213.text = NÃO
+Label_A3769CBA_AC97_D46A_41C0_F707FD9AD577.text = NÃO
+Label_B4900950_A81B_9A1A_419D_DBACE47D4708.text = NÃO
+Label_B4906951_A81B_9A1A_41E3_8656336AC6FB.text = RU.UNB.BR
+Label_B0A01850_AC9B_3C36_41D9_444167A2083A.text = SIM
+Label_A3755CB8_AC97_D476_41E3_F38F36F80997.text = SIM
+Label_B4902950_A81B_9A1A_41CF_C8F71E51EBBC.text = SIM
+Label_94D81BD2_A81E_FE1E_41E2_952A1592C367.text = SIM
+Label_9799D199_A819_8A0A_41D6_4586A15B033E.text = SIM
+Label_8BFEC0A4_A8EA_8A3A_41C7_52F8767A85FC.text = SIM
+Label_B2227055_A57A_D4A0_41D7_EDBEC6CD2191.text = TOUR VIRTUAL 360º
+Label_B2227055_A57A_D4A0_41D7_EDBEC6CD2191_mobile.text = TOUR VIRTUAL 360º
+Label_95291A12_A8EB_9E1E_41C2_7C6ACE664CD5.text = Tour Virtua  360º - RU
+Label_B61189F9_A50F_D760_41D4_C392EE906F34.text = Tour Virtual 360º - Restaurante Universitário
+Label_B3607385_AC9B_4C1E_41D6_013B1B0EB856.text = VALORES DAS REFEIÇÕES
+Label_B7ED074B_AC89_542A_41E0_66D896A25D76.text = VALORES DAS REFEIÇÕES 
+Label_A3760CBB_AC97_D46A_41E1_74BC777EBCE4.text = facebook.com/ruunb
+Label_B0A6D852_AC9B_3C3A_41D3_59D4ADA07B57.text = https://www.facebook.com/ruunb/
+
+### Multiline Text
+HTMLText_B5C0F6F9_A81E_F60A_41E2_B198813C6B47.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Tour Virtual criado por meio de projeto de extensão, tendo como objetivo dar ampla visão ao espaço interno do restaurante, permitindo a visitação virtual em 360 graus.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>Coordenação Administrativa</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Contato:(61)3107-1055</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">e-mail: falaru@unb.br </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>Direção do Restaurante Universitário </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Contato:(61)3107-1073</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>Produção Tour Virtual 360º:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Higor Francis Silva </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Analista de TI (UnB/FCI)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B6A43B2E_A82A_9E09_41D0_7964FE85B746.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.65625vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
+HTMLText_8B3B1625_A8EE_963A_41DF_9E2C6E5491A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>RU</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Restaurante Universitario</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>Endereço:</B></SPAN><SPAN STYLE="color:#333333;font-size:13px;"> Campus Darcy Ribeiro - UnB</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Tour Virtual criado por meio de projeto de extensão. Tendo como objetivo dar ampla visão ao espaço interno do restaurante, permitindo a visitação virtual em 360 graus.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>Coordenação Administrativa</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Contato: (61) 3107-1055  E-mail: falaru@unb.br </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>Direção do Restaurante Universitário -DRU</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Contato: (61) 3107-1073 </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>Produção Tour Virtual 360°:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Higor Francis Silva -  Analista de TI (UnB)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B9A57AFD_AC9B_3DEE_41DF_D8519A44B56E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>GRUPO I: </B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">ISENTO de pagamento</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Fazem parte desse grupo estudantes de graduação e de pós-graduação stricto sensu, participantes do programa de Assistencia Estudantil (com renda familiar per capita inferior a 1,5 salário mínimo. Para esse grupo o subsidio pago pela Universidade de Brasilia é de 100%;</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;"><B>GRUPO II:</B></SPAN><SPAN STYLE="color:#333333;font-size:12px;">  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Fazem parte desse grupo estudantes de graduação e de pós-graduação stricto sensu com renda familiar per capita superior a 1,5 salário mínimo. Para esse grupo o subsidio pago pela Universidade de Brasilia é de 60%;</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;"><B>GRUPO III:</B></SPAN><SPAN STYLE="font-size:12px;"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;">Fazem parte desse grupo servidores, terceirizados e visitantes em geral.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;"><B>RESTAURANTE EXECUTIVO:</B></SPAN><SPAN STYLE="font-size:12px;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;">O RU conta ainda com o serviço do Restaurante Executivo, não subsidiado pela Universidade de Brasília. O valor da refeição é calculado pelo peso servido.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B6168517_AC8E_D43A_4195_45C73539C4D7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;"><B>GRUPO I: </B></SPAN><SPAN STYLE="color:#333333;font-size:16px;">ISENTO de pagamento</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;">Fazem parte desse grupo estudantes de graduação e de pós-graduação stricto sensu, participantes do programa de Assistencia Estudantil (com renda familiar per capita inferior a 1,5 salário mínimo. Para esse grupo o subsidio pago pela Universidade de Brasilia é de 100%;</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;"><B>GRUPO II:</B></SPAN><SPAN STYLE="color:#333333;font-size:16px;">  </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:16px;">Fazem parte desse grupo estudantes de graduação e de pós-graduação stricto sensu com renda familiar per capita superior a 1,5 salário mínimo. Para esse grupo o subsidio pago pela Universidade de Brasilia é de 60%;</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;"><B>GRUPO III:</B></SPAN><SPAN STYLE="font-size:16px;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Fazem parte desse grupo servidores, terceirizados e visitantes em geral.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">O RU conta ainda com o serviço do Restaurante Executivo, não subsidiado pela Universidade de Brasília. O valor da refeição é calculado pelo peso servido.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Virtual RU
