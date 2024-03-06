@@ -1,8 +1,7 @@
 {
  "display": "fullscreen",
- "background_color": "#FFFFFF",
- "name": "Tour Virtual RU",
  "theme_color": "#FFFFFF",
+ "name": "Tour Virtual RU",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
+ "background_color": "#FFFFFF",
  "start_url": "index.htm"
 }
